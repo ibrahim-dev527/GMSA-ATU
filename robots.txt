@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /vendor/
+
+Sitemap: https://gmsa-atu.vercel.app/sitemap.xml
